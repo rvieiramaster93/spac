@@ -1,0 +1,8 @@
+{
+  "name": "SPAC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f7a439c0"
+}
